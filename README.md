@@ -1,2 +1,2 @@
 # Macroeconomics
-# Coding of various Macroeconomics using Python, Matlab, and Dynare
+# Solow Growth Modelling using Python (OOP)
